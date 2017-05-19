@@ -1,0 +1,1 @@
+# spree_customization_home_pages
